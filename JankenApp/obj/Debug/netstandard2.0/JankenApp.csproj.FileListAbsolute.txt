@@ -1,0 +1,15 @@
+/Users/nakagawa/Projects/JankenApp/JankenApp/obj/Debug/netstandard2.0/JankenApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nakagawa/Projects/JankenApp/JankenApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/nakagawa/Projects/JankenApp/JankenApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/nakagawa/Projects/JankenApp/JankenApp/obj/Debug/netstandard2.0/JankenApp.AssemblyInfoInputs.cache
+/Users/nakagawa/Projects/JankenApp/JankenApp/obj/Debug/netstandard2.0/JankenApp.AssemblyInfo.cs
+/Users/nakagawa/Projects/JankenApp/JankenApp/obj/Debug/netstandard2.0/JankenApp.csproj.CoreCompileInputs.cache
+/Users/nakagawa/Projects/JankenApp/JankenApp/bin/Debug/netstandard2.0/JankenApp.deps.json
+/Users/nakagawa/Projects/JankenApp/JankenApp/bin/Debug/netstandard2.0/JankenApp.dll
+/Users/nakagawa/Projects/JankenApp/JankenApp/bin/Debug/netstandard2.0/ref/JankenApp.dll
+/Users/nakagawa/Projects/JankenApp/JankenApp/bin/Debug/netstandard2.0/JankenApp.pdb
+/Users/nakagawa/Projects/JankenApp/JankenApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/nakagawa/Projects/JankenApp/JankenApp/obj/Debug/netstandard2.0/JankenApp.dll
+/Users/nakagawa/Projects/JankenApp/JankenApp/obj/Debug/netstandard2.0/ref/JankenApp.dll
+/Users/nakagawa/Projects/JankenApp/JankenApp/obj/Debug/netstandard2.0/JankenApp.pdb
+/Users/nakagawa/Projects/JankenApp/JankenApp/obj/Debug/netstandard2.0/JankenApp.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "1YIPZvtSA3B6q2mWQTvsMGqdE7VWwaaRo8boSlxSXA8Z08szy1uH7whmpt7gaxNlyR3R57bD1iejPpxfRTw5Og==",
+  "success": true,
+  "projectFilePath": "/Users/nakagawa/Projects/JankenApp/JankenApp/JankenApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/nakagawa/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/nakagawa/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/nakagawa/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/nakagawa/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/nakagawa/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

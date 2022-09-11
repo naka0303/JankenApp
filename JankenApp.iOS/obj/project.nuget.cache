@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5N9g7TP8xS9m52CgBf2Gw7jYkFOw97Hbul/LgHWX4XvoGxuhgC9ZSmQnhuwt2soM8WNmi4ponFh1WvIQsNYzyg==",
+  "success": true,
+  "projectFilePath": "/Users/nakagawa/Projects/JankenApp/JankenApp.iOS/JankenApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/nakagawa/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/nakagawa/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/nakagawa/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
