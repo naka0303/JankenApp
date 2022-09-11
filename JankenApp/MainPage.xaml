@@ -7,12 +7,7 @@
         <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
             <Label Text="じゃんけんアプリ" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
         </Frame>
-        <Label  x:Name="label"
-                Text="Welcome to Xamarin.Forms!"
-                HorizontalOptions="Center"
-                VerticalOptions="CenterAndExpand" />
         <Button Text="スタート画面へ"
-                x:Name="ButtonClicked"
                 Clicked="ButtonClicked"
 		        HeightRequest="100"
 		        WidthRequest="200" />

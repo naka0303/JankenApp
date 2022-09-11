@@ -1,10 +1,13 @@
-﻿<Properties StartupConfiguration="{28C5042D-84ED-494C-807B-5C2516181D93}|Default">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{28C5042D-84ED-494C-807B-5C2516181D93}|Default">
   <MonoDevelop.Ide.ItemProperties.JankenApp.Android PreferredExecutionTarget="Android.api_30" />
   <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="JankenApp/MainPage.xaml" Line="8" Column="15" />
-      <File FileName="JankenApp/MainPage.xaml.cs" />
-      <File FileName="JankenApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs" />
+      <File FileName="JankenApp/MainPage.xaml.cs" Line="13" Column="16" />
+      <File FileName="JankenApp/StartPage.xaml.cs" Line="13" Column="11" />
+      <File FileName="JankenApp/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="JankenApp/MainPage.xaml" Line="10" Column="31" />
+      <File FileName="JankenApp/StartPage.xaml" Line="7" Column="42" />
+      <File FileName="JankenApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs" Line="25" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,6 +16,7 @@
             <Node name="JankenApp" expanded="True">
               <Node name="App.xaml" expanded="True" />
               <Node name="MainPage.xaml" expanded="True" selected="True" />
+              <Node name="StartPage.xaml" expanded="True" />
             </Node>
           </Node>
         </State>

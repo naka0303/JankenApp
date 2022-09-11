@@ -10,7 +10,7 @@ namespace JankenApp
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new NavigationPage(new MainPage() { Title = "メインページ" });
         }
 
         protected override void OnStart()

@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Xamarin.Forms;
 
 namespace JankenApp
@@ -15,9 +10,9 @@ namespace JankenApp
             InitializeComponent();
         }
 
-        public void ButtonClicked(object sender, EventArgs e)
+        private async void ButtonClicked(object sender, EventArgs e)
         {
-            label.Text = "ボタン押下";
+            await this.Navigation.PushAsync(new NavigationPage(new StartPage() { Title = "StartPage" }));
         }
     }
 }
